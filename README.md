@@ -10,3 +10,6 @@ Você pode experimentar a calculadora em funcionamento <a href="https://matheuse
 - Clone este repositório em sua máquina local usando o seguinte comando:
 git clone https://github.com/matheusesdev/calculadora-basica.git
 
+# Imagem de demonstração
+![image](https://github.com/matheusesdev/calculadora-basica/assets/144345022/0e15fa02-7e7d-42b9-a13d-2ba2a2a97d3a)
+
